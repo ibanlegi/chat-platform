@@ -1,4 +1,4 @@
-# for implementing a multi-user chat tool
+# Project for implementing a multi-user chat tool
 
 ### Licence 3 Informatique - Modules Systèmes Distribués / Systèmes d'Exploitation II
 ### Université de Pau et des Pays de l'Adour  
