@@ -21,7 +21,7 @@
 
 ---
 
-**Note** : The project documentation is written in French.
+> **Note** : The project documentation is written in French.
 
 ## Objective
 
